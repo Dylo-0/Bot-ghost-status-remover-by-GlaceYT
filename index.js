@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Airox Community"];
+const statusMessages = ["Airox"];
 
 
 let currentIndex = 0;
